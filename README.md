@@ -9,4 +9,5 @@ Exemplo de compartilhamento Windows/Samba:
 Se o usuario for guest, colocar apenas guest e senha igual a nada
 
 Para recarregar o fstab sem reiniciar como **root** dê o comando:
+
 `mount -a`
